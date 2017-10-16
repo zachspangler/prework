@@ -102,8 +102,8 @@
 								<ul class="datadesignlist">
 									<li>One User Can Have Many Posts <strong>(1 to n)</strong></li>
 									<li>Many User Can Have Many Comments <strong>(m to n)</strong></li>
-									<li>Many Posts Can Have Many Comments <strong>(m to n)</strong></li>
-									<li>Many Comments Can Have Many Comments <strong>(m to n)</strong></li>
+									<li>One Posts Can Have Many Comments <strong>(1 to n)</strong></li>
+									<li>One Comments Can Have Many Comments <strong>(1 to n)</strong></li>
 								</ul>
 					</section>
 		</main>
