@@ -70,7 +70,7 @@
 							<h4 class="title">Entities & Attributes</h4>
 								<p class="datadesigntitle"><strong>User</strong></p>
 									<ul class="datadesignlist">
-										<li>uniqueUserId (primary)</li>
+										<li>UserId (primary)</li>
 										<li>userEmail</li>
 										<li>userName</li>
 										<li>userImage</li>
@@ -80,8 +80,8 @@
 									</ul>
 								<p class="datadesigntitle"><strong>Post</strong></p>
 									<ul class="datadesignlist">
-										<li>uniquePostId (primary)</li>
-										<li>postuniqueUserId (foreign)</li>
+										<li>PostId (primary)</li>
+										<li>postUserId (foreign)</li>
 										<li>postTitle</li>
 										<li>postDetail</li>
 										<li>postSubject</li>
@@ -91,9 +91,9 @@
 								<p class="datadesigntitle"><strong>Comment</strong></p>
 									<ul class="datadesignlist">
 										<li>uniqueCommentId (primary)</li>
-										<li>commentuniquePostId (foreign)</li>
-										<li>commentuniqueUserId (foreign)</li>
-										<li>commentuniqueCommentId (foreign)</li>
+										<li>commentPostId (foreign)</li>
+										<li>commentUserId (foreign)</li>
+										<li>commentCommentId (foreign)</li>
 										<li>commentDetail</li>
 										<li>commentDateTime</li>
 										<li>commentPoints</li>
