@@ -19,6 +19,7 @@
 					<section>
 						<h3>Persona</h3>
 							<p><strong>Name:</strong> Malcolm Dubois</p>
+							<p><strong>Sex:</strong> Male</p>
 							<p><strong>Age:</strong> 33</p>
 							<p><strong>Profession:</strong> Verizon Call Center Customer Support</p>
 							<p><strong>Technology:</strong> Malcolm is an avid user of technology. He is always purchasing the latest
