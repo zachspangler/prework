@@ -101,9 +101,9 @@
 							<h4 class="title">Relations</h4>
 								<ul class="datadesignlist">
 									<li>One User Can Have Many Posts <strong>(1 to n)</strong></li>
-									<li>Many User Can Have Many Comments <strong>(m to n)</strong></li>
-									<li>One Posts Can Have Many Comments <strong>(1 to n)</strong></li>
-									<li>One Comments Can Have Many Comments <strong>(1 to n)</strong></li>
+									<li>One User Can Have Many Comments <strong>(1 to n)</strong></li>
+									<li>One Post Can Have Many Comments <strong>(1 to n)</strong></li>
+									<li>One Comment Can Have Many Comments <strong>(1 to n)</strong></li>
 								</ul>
 					</section>
 		</main>
