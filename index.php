@@ -24,7 +24,7 @@
 							<p><strong>Profession:</strong> Verizon Call Center Customer Support</p>
 							<p><strong>Technology:</strong> Malcolm is an avid user of technology. He is always purchasing the latest
 								model of anything Apple releases. He regularly claims "If my house were burning down and
-								I could only grab three things including my family. I would grab my MabBook Pro, his Bongo Drum
+								I could only grab three things including my family. I would grab my MacBook Pro, his Bongo Drum
 								and HTC Vive. </p>
 							<p><strong>Hobbies:</strong> When not at the call center, Malcolm is using his MacBook to surf the
 								internet or using his HTC Vive to dabble in the world of virtual reality. In addition to his
@@ -38,6 +38,12 @@
 										this is the perfect way to supplement online research with a real human "voice". As a
 										regularly contributing member of Reddit he posts questions and answers questions.</li>
 								</ol>
+						<p><strong>Knowledge:</strong> Malcolm loves all the things technology and has a deep
+							understanding of the IT and gaming world. He doesn't do any kind of coding nor is he planning on it
+							.</p>
+						<p><strong>Technology Used:</strong> Malcolm is a Apple fanatic. He is currently using a MacBook
+							Pro with the latest OS 10.13 "High Sierra" as well the the iPhone 8 Plus and can't wait for the
+							iPhone X.</p>
 						<h3>User Story</h3>
 							<p>As a user, I want to get information about the topics I care about.</p>
 					</section>
