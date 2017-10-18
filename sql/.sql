@@ -45,3 +45,4 @@ CREATE TABLE comments (
 	FOREIGN KEY (commentsCommentId) REFERENCES comments (CommentsId),
 	PRIMARY KEY (CommentsId)
 );
+
