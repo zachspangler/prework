@@ -1,0 +1,45 @@
+table, th, tr, td {
+	border: 1px solid darkgray;
+	text-align: center;
+	border-collapse: collapse;
+}
+
+input {
+	display: block;
+	text-align: center;
+	background-color: #4CAF50;
+	color: white;
+	padding: 1em;
+	text-decoration: none;
+	margin: 1em;
+	cursor: pointer;
+	border-radius: 25px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+header {
+	background-color: lightgray;
+	text-align: center;
+	padding: 1em;
+}
+
+th, td {
+	width: 15em;
+}
+
+table	{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+h3, p {
+	text-align: center;
+}
+
+main {
+	background-color: lightgray;
+	padding: 1.5em;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
